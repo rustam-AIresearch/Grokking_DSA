@@ -23,4 +23,3 @@ my_list = [0,2,4,6,8,10]
 
 
 print(f'Your value locate in {binary_search(my_list, 6)}')
-print('Function completed')
