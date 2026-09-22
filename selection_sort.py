@@ -1,3 +1,5 @@
+## Selection Sort 
+
 my_list = [3,6,5,7,1,10,20]
 
 def findSmallest(list):
